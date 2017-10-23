@@ -15,4 +15,5 @@
 #[videos url] \
 #[videos url]
 
-wget http://dl.apk-downloaders.com/apps/2017/10/16/com.evozi.injector_4.2.3_[apk-downloaders.com].apk
+wget https://bitbucket.org/lalit_pant/kojo/downloads/KojoInstall-2.4.12.exe
+wget https://bitbucket.org/lalit_pant/kojo/downloads/kojoInstall-2.4.12.jar
