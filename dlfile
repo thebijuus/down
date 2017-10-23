@@ -15,5 +15,5 @@
 #[videos url] \
 #[videos url]
 
-wget https://bitbucket.org/lalit_pant/kojo/downloads/KojoInstall-2.4.12.exe
-wget https://bitbucket.org/lalit_pant/kojo/downloads/kojoInstall-2.4.12.jar
+wget ftp://ftp.panasonic.com/camera/om/dmc-zs20_adv_en_om.pdf
+wget ftp://ftp.panasonic.com/camera/om/dmc-zs20_en_om.pdf
