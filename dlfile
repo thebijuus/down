@@ -15,4 +15,4 @@
 #[videos url] \
 #[videos url]
 
-wget http://www.tapsmart.com/wp-content/uploads/2014/10/Full-open-mailbox.jpg
+youtube-dl https://www.youtube.com/watch?v=kgfTz9d8bak https://www.youtube.com/watch?v=GMFewiplIbw https://www.youtube.com/watch?v=54cCE5q2NEE
