@@ -15,4 +15,4 @@
 #[videos url] \
 #[videos url]
 
-wget https://www.planetadelibros.com/libros_contenido_extra/36/35211_Manual_Del_Aprendiz_De_Cocinero.pdf
+youtube-dl https://www.youtube.com/watch?v=CGyEd0aKWZE
