@@ -15,4 +15,4 @@
 #[videos url] \
 #[videos url]
 
-wget http://www-eu.apache.org/dist//jmeter/binaries/apache-jmeter-3.3.tgz
+wget https://github.com/gabrie-allaigre/sonar-gitlab-plugin/releases/download/2.1.0/sonar-gitlab-plugin-2.1.0.jar
