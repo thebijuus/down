@@ -15,4 +15,4 @@
 #[videos url] \
 #[videos url]
 
-wget https://sonarsource.bintray.com/Distribution/sonar-ldap-plugin/sonar-ldap-plugin-2.2.0.608.jar
+wget https://github.com/racodond/sonar-css-plugin/releases/download/4.11/sonar-css-plugin-4.11.jar
