@@ -15,4 +15,4 @@
 #[videos url] \
 #[videos url]
 
-wget https://github.com/racodond/sonar-css-plugin/releases/download/4.11/sonar-css-plugin-4.11.jar
+wget https://sonarsource.bintray.com/Distribution/sonar-web-plugin/sonar-web-plugin-2.5.0.476.jar https://sonarsource.bintray.com/Distribution/sonar-javascript-plugin/sonar-javascript-plugin-3.2.0.5506.jar
