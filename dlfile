@@ -15,4 +15,9 @@
 #[videos url] \
 #[videos url]
 
-wget https://sonarsource.bintray.com/Distribution/sonar-web-plugin/sonar-web-plugin-2.5.0.476.jar https://sonarsource.bintray.com/Distribution/sonar-javascript-plugin/sonar-javascript-plugin-3.2.0.5506.jar
+wget "https://releases.mattermost.com/desktop/3.7.1/mattermost-setup-3.7.1-win64.exe" ; \
+wget "https://releases.mattermost.com/desktop/3.7.1/mattermost-desktop-3.7.1-linux-amd64.deb" ; \
+wget "http://www.printmytattoo.com/members/ebooks/Guy%20Aitchisons%20Reinventing%20The%20Tattoo%202ND%20Edition.pdf" ; \
+wget "http://www.printmytattoo.com/members/ebooks/Flash%20Designs%20-%20The%20Artists%20Collection.pdf" ; \
+wget "http://www.printmytattoo.com/members/ebooks/Reinventing%20the%20Tattoo.pdf" ; \
+wget "http://www.printmytattoo.com/members/ebooks/The%20Tattoo%20E-Book.pdf"
