@@ -15,9 +15,8 @@
 #[videos url] \
 #[videos url]
 
-wget "https://releases.mattermost.com/desktop/3.7.1/mattermost-setup-3.7.1-win64.exe" ; \
-wget "https://releases.mattermost.com/desktop/3.7.1/mattermost-desktop-3.7.1-linux-amd64.deb" ; \
-wget "http://www.printmytattoo.com/members/ebooks/Guy%20Aitchisons%20Reinventing%20The%20Tattoo%202ND%20Edition.pdf" ; \
-wget "http://www.printmytattoo.com/members/ebooks/Flash%20Designs%20-%20The%20Artists%20Collection.pdf" ; \
-wget "http://www.printmytattoo.com/members/ebooks/Reinventing%20the%20Tattoo.pdf" ; \
-wget "http://www.printmytattoo.com/members/ebooks/The%20Tattoo%20E-Book.pdf"
+wget "https://github.com/checkstyle/sonar-checkstyle/releases/download/3.7/checkstyle-sonar-plugin-3.7.jar"
+wget "https://sonarsource.bintray.com/Distribution/sonar-xml-plugin/sonar-xml-plugin-1.4.3.1027.jar"
+wget "https://sonarsource.bintray.com/Distribution/sonar-java-plugin/sonar-java-plugin-4.15.0.12310.jar"
+wget "https://sonarsource.bintray.com/Distribution/sonar-csharp-plugin/sonar-csharp-plugin-6.6.0.3969.jar"
+wget "https://github.com/emrehan/sonar-scalastyle/releases/download/v0.0.1-SNAPSHOT/sonar-scalastyle-plugin-0.0.1-SNAPSHOT.jar"
