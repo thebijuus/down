@@ -15,4 +15,5 @@
 #[videos url] \
 #[videos url]
 
-wget "https://github.com/hersonalfaro/ruby-sonar-plugin/releases/download/6.4-rc/sonar-ruby-plugin.jar"
+youtube-dl --no-progress --quiet --ignore-errors --output '%(playlist_index)s - %(title)s.%(ext)s' \
+https://www.youtube.com/playlist?list=PLuEZQoW9bRnSsHp7GxSZraKXAPjCF79kW
