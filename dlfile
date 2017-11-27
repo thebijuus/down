@@ -15,5 +15,5 @@
 #[videos url] \
 #[videos url]
 
-youtube-dl --no-progress --quiet --ignore-errors --output '%(playlist_index)s - %(title)s.%(ext)s' \
-https://www.youtube.com/playlist?list=PLuEZQoW9bRnSsHp7GxSZraKXAPjCF79kW
+wget https://github.com/kogitant/sonar-slack-notifier-plugin/releases/download/2.1.2/cks-slack-notifier-2.1.2.jar
+wget https://github.com/stefanrinderle/softvis3d/releases/download/softvis3d-1.0/sonar-softvis3d-plugin-1.0.jar
