@@ -15,5 +15,7 @@
 #[videos url] \
 #[videos url]
 
-wget https://github.com/kogitant/sonar-slack-notifier-plugin/releases/download/2.1.2/cks-slack-notifier-2.1.2.jar
-wget https://github.com/stefanrinderle/softvis3d/releases/download/softvis3d-1.0/sonar-softvis3d-plugin-1.0.jar
+wget http://files3.codecguide.com/K-Lite_Codec_Pack_1365_Mega.exe
+wget http://get.daum.net/PotPlayer64/Version/Latest/PotPlayerSetup64.exe
+wget http://get.daum.net/PotPlayer/Version/Latest/PotPlayerSetup.exe
+wget https://download.jetbrains.com/charisma/youtrack-2017.4.37623.jar
