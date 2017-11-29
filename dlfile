@@ -15,4 +15,4 @@
 #[videos url] \
 #[videos url]
 
-wget -O gitlab-runner-10.1.0 https://gitlab-runner-downloads.s3.amazonaws.com/v10.1.0/binaries/gitlab-runner-linux-amd64
+wget https://github.com/willemsrb/sonar-issueresolver-plugin/releases/download/sonar-issueresolver-plugin-1.0.2/sonar-issueresolver-plugin-1.0.2.jar
