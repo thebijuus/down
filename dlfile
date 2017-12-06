@@ -15,5 +15,4 @@
 #[videos url] \
 #[videos url]
 
-wget https://github.com/SonarSource/sonar-csharp/releases/download/6.7-RC1/sonar-csharp-plugin-6.7.0.4239.jar
-wget https://github.com/SonarSource/SonarJS/releases/download/3.3.0.5702/sonar-javascript-plugin-3.3.0.5702.jar
+wget http://dl.alfresco.com/release/community/201707-build-00028/alfresco-community-installer-201707-linux-x64.bin
