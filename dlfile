@@ -15,4 +15,4 @@
 #[videos url] \
 #[videos url]
 
-wget http://dl.alfresco.com/release/community/201707-build-00028/alfresco-community-installer-201707-linux-x64.bin
+youtube-dl https://www.youtube.com/watch?v=X6FUrfHYRQE
