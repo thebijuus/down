@@ -15,4 +15,4 @@
 #[videos url] \
 #[videos url]
 
-wget https://download.lenovo.com/consumer/mobiles/ewlv02af.exe
+wget https://download.lenovo.com/consumer/mobiles/ev3s01af.exe https://download.lenovo.com/consumer/mobiles/evl101af.exe
