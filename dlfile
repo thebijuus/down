@@ -15,4 +15,4 @@
 #[videos url] \
 #[videos url]
 
-youtube-dl https://www.youtube.com/watch?v=C7xYw2nGelg
+wget https://github.com/mesos/elasticsearch/releases/download/1.0.1/mesos-elasticsearch-scheduler-1.0.1.jar
