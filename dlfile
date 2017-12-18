@@ -15,4 +15,4 @@
 #[videos url] \
 #[videos url]
 
-wget https://downloads.dcos.io/dcos/stable/dcos_generate_config.sh
+wget "https://downloads.dcos.io/dcos/stable/dcos_generate_config.sh"
