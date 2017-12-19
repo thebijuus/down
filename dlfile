@@ -15,4 +15,5 @@
 #[videos url] \
 #[videos url]
 
-wget "https://downloads.dcos.io/dcos/stable/dcos_generate_config.sh"
+youtube-dl https://www.youtube.com/watch?v=wnJ6LuUFpMo
+youtube-dl https://www.youtube.com/watch?v=X6FUrfHYRQE
