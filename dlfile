@@ -15,4 +15,4 @@
 #[videos url] \
 #[videos url]
 
-wget https://elbacheapp.com/elbache.apk https://elbacheapp.com/ftp/elbacheapp.db
+youtube-dl https://www.youtube.com/watch?v=Mtau4v6foHA
