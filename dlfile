@@ -15,4 +15,4 @@
 #[videos url] \
 #[videos url]
 
-youtube-dl https://www.youtube.com/embed/R3f-Sr6y-c4
+wget http://190.131.246.48/wordpress.4.9.1
