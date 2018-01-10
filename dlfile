@@ -15,4 +15,7 @@
 #[videos url] \
 #[videos url]
 
-wget -O gitlab-runner-10.2.0 https://gitlab-runner-downloads.s3.amazonaws.com/v10.2.0/binaries/gitlab-runner-linux-amd64
+youtube-dl https://www.youtube.com/watch?v=A2I_7hl3VUI
+youtube-dl https://www.youtube.com/watch?v=5Wiio4KoGe8
+youtube-dl https://www.youtube.com/watch?v=MfNpgoC8cmw
+youtube-dl https://www.youtube.com/watch?v=nNrh-gdu9m4
