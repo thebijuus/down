@@ -15,7 +15,4 @@
 #[videos url] \
 #[videos url]
 
-youtube-dl https://www.youtube.com/watch?v=A2I_7hl3VUI
-youtube-dl https://www.youtube.com/watch?v=5Wiio4KoGe8
-youtube-dl https://www.youtube.com/watch?v=MfNpgoC8cmw
-youtube-dl https://www.youtube.com/watch?v=nNrh-gdu9m4
+wget http://www.kafkatool.com/download2/kafkatool.sh
