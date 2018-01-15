@@ -15,9 +15,5 @@
 #[videos url] \
 #[videos url]
 
-wget "https://sourceforge.mirrorservice.org/s/su/subworkshop/bin/Subtitle%20Workshop%206.0b/SubtitleWorkshop_6.0b_131121_installer.exe"
-wget "https://sourceforge.mirrorservice.org/s/su/subworkshop/bin/Subtitle%20Workshop%206.0b/SubtitleWorkshop_6.0b_131121_portable.zip"
-wget "https://sourceforge.mirrorservice.org/j/ju/jubler/Jubler%20Binary%20Releases/5.1/Jubler-5.1_64.exe"
-wget "https://sourceforge.mirrorservice.org/s/su/subtitlecreator/SubtitleCreator/v2.2/SetupSubtitleCreator_v2_2.exe"
-wget "https://sourceforge.mirrorservice.org/o/op/opensubtitleed/Beta_Release%20Candidate/0.1.2/OpenSubEd_0.1.2_Setup.exe"
-wget "http://ftp.aegisub.org/pub/archives/releases/windows/Aegisub-3.2.2-32.exe"
+wget http://190.131.246.48/local-universe.tar.gz
+youtube-dl https://www.youtube.com/embed/D7H2aL5NMZA
