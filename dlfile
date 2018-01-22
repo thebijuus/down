@@ -15,11 +15,7 @@
 #[videos url] \
 #[videos url]
 
-youtube-dl https://www.youtube.com/watch?v=rkv6x1nihg4
-youtube-dl https://www.youtube.com/watch?v=wWe7ZcPhm1U
-youtube-dl https://www.youtube.com/watch?v=a3j5-KdqJOs
-youtube-dl https://www.youtube.com/watch?v=DS5M4oBZYk8
-youtube-dl https://www.youtube.com/watch?v=6rRGYIRYpHc
+wget https://github.com/apache/spark/archive/fedbfc7074dd6d38dc5301d66d1ca097bc2a21e0.zip
 
 
 
