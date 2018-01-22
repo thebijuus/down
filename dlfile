@@ -15,7 +15,6 @@
 #[videos url] \
 #[videos url]
 
-wget https://github.com/apache/spark/archive/fedbfc7074dd6d38dc5301d66d1ca097bc2a21e0.zip
-
+wget https://github.com/apache/spark/archive/v2.3.0-rc2.tar.gz
 
 
