@@ -15,10 +15,4 @@
 #[videos url] \
 #[videos url]
 
-wget "http://apk-downloaders.com/apps/2018/01/30/com.magicv.airbrush_3.3.3_[apk-downloaders.com].apk"
-wget "http://dl.apk-downloaders.com/apps/2018/01/25/vsin.t16_funny_photo_3.0.18_[apk-downloaders.com].apk"
-wget "http://dl.apk-downloaders.com/apps/2018/01/25/vsin.t16_funny_photo_3.0.18_[apk-downloaders.com].apk"
-wget "http://dl.apk-downloaders.com/apps/2018/01/27/com.canva.editor_1.0.3_[apk-downloaders.com].apk"
-wget "http://apk-downloaders.com/apps/2018/01/30/com.joeware.android.gpulumera_4.05_[apk-downloaders.com].apk"
-wget "http://dl.apk-downloaders.com/apps/2018/01/25/vsin.t16_funny_photo_3.0.18_[apk-downloaders.com].apk"
-youtube-dl https://www.youtube.com/watch?v=GmHrjFIWl6U
+wget "https://secure-appldnld.apple.com/itunes12/091-33626-20170922-F51D3530-A003-11E7-8324-03D19A97A551/iTunes64Setup.exe"
