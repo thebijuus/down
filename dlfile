@@ -15,5 +15,13 @@
 #[videos url] \
 #[videos url]
 
-
-wget "http://dl.apk-downloaders.com/apps/2017/10/29/com.lexa.fakegps_2.0.6_[apk-downloaders.com].apk"
+wget "https://github.com/dcos/examples/archive/master.zip"
+wget "http://dl.apk-downloaders.com/apps/2018/01/27/com.guidesnapseed.sbomeng_1.0_[apk-downloaders.com].apk"
+wget "https://downloads.dcos.io/dcos-vagrant/dcos-centos-virtualbox-0.9.2.box"
+wget "http://dl.apk-downloaders.com/apps/2017/12/27/com.picsart.studio_9.27.3_[apk-downloaders.com].apk"
+wget "http://dl.apk-downloaders.com/apps/2017/11/15/com.pixlr.express_3.2.5_[apk-downloaders.com].apk"
+wget "http://apk-downloaders.com/apps/2018/01/30/com.cyberlink.photodirector_6.1.1_[apk-downloaders.com].apk"
+wget "http://dl.apk-downloaders.com/apps/2017/10/27/com.cyberlink.youperfect_5.22.8_[apk-downloaders.com].apk"
+wget "http://dl.apk-downloaders.com/apps/2018/01/10/com.cyworld.camera_3.4.1_[apk-downloaders.com].apk"
+wget "http://dl.apk-downloaders.com/apps/2017/10/15/com.aviary.android.feather_4.8.3_[apk-downloaders.com].apk"
+wget "http://dl.apk-downloaders.com/apps/2017/12/18/com.btows.photo_10.95_[apk-downloaders.com].apk"
