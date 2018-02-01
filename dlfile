@@ -15,4 +15,4 @@
 #[videos url] \
 #[videos url]
 
-wget "https://download.apkpure.com/b/apk/b3JnLnNhbmRyb3Byb3h5LmRyb255XzEyMV8yYmM1YTBkZA?_fn=RHJvbnlfdjEuMy4xMjFfYXBrcHVyZS5jb20uYXBr&k=ba87dd4327973dcfc0eee6912f23a0355a75bfba&as=ec71b976ea90ea3032b5c15b53320fa35a731d32&_p=b3JnLnNhbmRyb3Byb3h5LmRyb255&c=1%7CCOMMUNICATION"
+wget -O gitlab-runner-10.3.1 https://gitlab-runner-downloads.s3.amazonaws.com/v10.3.1/binaries/gitlab-runner-linux-amd64
