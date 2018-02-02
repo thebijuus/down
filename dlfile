@@ -15,6 +15,4 @@
 #[videos url] \
 #[videos url]
 
-wget -O APKPure_v2.5.3.apk "https://download.apkpure.com/custom/com.apkpure.aegon-2053.apk?_fn=QVBLUHVyZV92Mi41LjNfYXBrcHVyZS5jb20uYXBr&k=eff6c8887fbfc2d38ad4eab23657bcfa5a761b8a&as=56b270d73c389dd9a64debfc262b7d6b5a737902&_p=Y29tLmFwa3B1cmUuYWVnb24&c=1%7CTOOLS&arg=apkpure%3A%2F%2Fcampaign%2F%3Futm_source%3Dapkpure%26utm_medium%3Dhttps%3A%2F%2Fapkpure.com%2Fapkpure-app.html%3Ficn%3Daegon%26ici%3Dimage_home%26utm_term%3Da4d"
-wget -O Snapseed_v2.18.0.167817062.apk "https://download.apkpure.com/b/apk/Y29tLm5pa3NvZnR3YXJlLnNuYXBzZWVkXzM0MDkzOV8xYzk1NjkwMw?_fn=U25hcHNlZWRfdjIuMTguMC4xNjc4MTcwNjJfYXBrcHVyZS5jb20uYXBr&k=7a64392c3224344b17dfe361d7a48df55a761b83&as=c66367304a15c527300e1310c129a00f5a7378fb&_p=Y29tLm5pa3NvZnR3YXJlLnNuYXBzZWVk&c=1%7CPHOTOGRAPHY"
-wget -O Instagram_v30.0.0.12.95.apk "https://download.apkpure.com/b/apk/Y29tLmluc3RhZ3JhbS5hbmRyb2lkXzg5ODY3NDQyXzQ2YjVmY2Y5?_fn=SW5zdGFncmFtX3YzMC4wLjAuMTIuOTVfYXBrcHVyZS5jb20uYXBr&k=709b54f40e8a898dc7e838fdefcc3eea5a761bd0&as=56068b13e7b85bd7f4818936b7624a0c5a737948&_p=Y29tLmluc3RhZ3JhbS5hbmRyb2lk&c=1%7CSOCIAL"
+wget https://www.python.org/ftp/python/3.5.4/Python-3.5.4.tgz
