@@ -15,7 +15,7 @@
 #[videos url] \
 #[videos url]
 
-wget -O Titan-Quest-v1.0.1-www.ReXdl.com.apk "http://s2.rexdl.com/android/game/Titan-Quest-v1.0.1-www.ReXdl.com.apk"
-wget -O Titan-Quest-v1.0.1-www.ReXdl.com.zip "http://s2.rexdl.com/android/game/Titan-Quest-v1.0.1-www.ReXdl.com.zip"
-wget -O Titan-Quest-v1.0.0-Mod-www.ReXdl.com.apk "http://s2.rexdl.com/android/game/Titan-Quest-v1.0.0-Mod-www.ReXdl.com.apk"
-wget -O Titan-Quest-v1.0.0-MegaMod-www.ReXdl.com.apk "http://s2.rexdl.com/android/game/Titan-Quest-v1.0.0-MegaMod-www.ReXdl.com.apk"
+wget -q -O Titan-Quest-v1.0.1-www.ReXdl.com.apk "http://s2.rexdl.com/android/game/Titan-Quest-v1.0.1-www.ReXdl.com.apk"
+wget -q -O Titan-Quest-v1.0.1-www.ReXdl.com.zip "http://s2.rexdl.com/android/game/Titan-Quest-v1.0.1-www.ReXdl.com.zip"
+wget -q -O Titan-Quest-v1.0.0-Mod-www.ReXdl.com.apk "http://s2.rexdl.com/android/game/Titan-Quest-v1.0.0-Mod-www.ReXdl.com.apk"
+wget -q -O Titan-Quest-v1.0.0-MegaMod-www.ReXdl.com.apk "http://s2.rexdl.com/android/game/Titan-Quest-v1.0.0-MegaMod-www.ReXdl.com.apk"
