@@ -15,4 +15,4 @@
 #[videos url] \
 #[videos url]
 
-wget "http://37.187.24.141/5kapks/46eb176e8d330f12fefab8bbc63d6460/5a7bcab9/Dungeon_Hunter_4_v2.0.0f_data.rar"
+youtube-dl https://www.youtube.com/watch?v=XUvqnsWm8yo
