@@ -15,4 +15,4 @@
 #[videos url] \
 #[videos url]
 
-youtube-dl https://www.youtube.com/watch?v=XUvqnsWm8yo
+wget "https://download.apkpure.com/b/apk/Y29tLnBpeG9uaWMud3dyLmZseG5fMTJfNjVmZTU4Y2Y?_fn=V2FyIFJvYm90cyBmb3IgQVBLUHVyZV92My4zLjJfYXBrcHVyZS5jb20uYXBr&k=ee4b4cd2f9b7eb0d6b2591698287bf735a7e78fd&as=ff223adc2eabd5e8b7149f30aa753feb5a7bd675&_p=Y29tLnBpeG9uaWMud3dyLmZseG4&c=0%7CGAME_ACTION"
