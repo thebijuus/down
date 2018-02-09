@@ -15,4 +15,5 @@
 #[videos url] \
 #[videos url]
 
-youtube-dl https://www.youtube.com/watch?v=cpN78ZjnCZY
+wget "http://dl7.apkaward.com/APK+Mod-0202_1725/com.tt2kgames.xcomew/com.tt2kgames.xcomew_1.7.0-APK_Award.apk"
+wget "http://dl7.apkaward.com/APK+Mod-0202_1725/com.tt2kgames.xcomew/com.tt2kgames.xcomew.zip"
