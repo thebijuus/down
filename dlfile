@@ -15,5 +15,4 @@
 #[videos url] \
 #[videos url]
 
-wget -q "https://st.downloadatoz.com/apk/st/5086202b72d99bfa2266d9d96a3885e3/czo1OToiL2Fwa18yMDE3L3RqL3RuL21wL2NvbS1tYWtpbmdmdW4tbWFnZWFuZG1pbmlvbnMuMTAwMjA3NS5hcGsiOw==/com-makingfun-mageandminions.1002075.apk"
-wget -q "https://sq.downloadatoz.com/apk/sq/af418c86dc96c9d486737732209766ef/czo4MDoiL2Fwa18yMDE3L29iL2FiL2RwL2NvbS1tb2QtZXRlcm5pdW0tbWFnZS1hbmQtbWluaW9ucy12MS0yLTE1LW1vZC1hcGsuMTAwMjAxNS5hcGsiOw==/com-mod-eternium-mage-and-minions-v1-2-15-mod-apk.1002015.apk"
+youtube-dl https://www.youtube.com/watch?v=cpN78ZjnCZY
