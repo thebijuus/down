@@ -15,6 +15,6 @@
 #[videos url] \
 #[videos url]
 
-wget "http://dl1.revdownload.com/dl1/1701/XCOM_Enemy_Within_v1.7.0__6284_Revdl.com.apk"
-wget "http://dl1.revdownload.com/dl1/1701/XCOM_Enemy_Within_v1.7.0_Mod__5749_Revdl.com.zip"
-wget "http://dl1.revdownload.com/dl1/1701/XCOM_Enemy_Within_v1.7.0__2542_Revdl.com.rar"
+wget "http://dl1.revdownload.com/dl1/1801/Power_Hover_Cruise_1.0.2__8655_Revdl.com.apk"
+wget "http://dl1.revdownload.com/dl1/1801/Power_Hover_Cruise_1.0.2_Mod__7684_Revdl.com.apk"
+youtube-dl https://www.youtube.com/watch?v=b-dQmSkUX3U
