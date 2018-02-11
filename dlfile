@@ -15,30 +15,4 @@
 #[videos url] \
 #[videos url]
 
-youtube-dl --no-progress --quiet --ignore-errors --output '%(playlist_index)s - %(title)s.%(ext)s' \
-https://www.youtube.com/playlist?list=PLReDUkUQG7xrb6vRzitNGqrkljvwZHV1G
-
-youtube-dl --no-progress --quiet --ignore-errors --output '%(playlist_index)s - %(title)s.%(ext)s' \
-https://www.youtube.com/playlist?list=PLReDUkUQG7xoqMprnu6IGGRtSAftZc09P
-
-youtube-dl --no-progress --quiet --ignore-errors --output '%(playlist_index)s - %(title)s.%(ext)s' \
-https://www.youtube.com/playlist?list=PLReDUkUQG7xpCcu6kgK4RlppZkS-IV5EH
-
-youtube-dl --no-progress --quiet --ignore-errors --output '%(playlist_index)s - %(title)s.%(ext)s' \
-https://www.youtube.com/playlist?list=PLReDUkUQG7xq1MLGSLELHt17LskGMgFAS
-
-youtube-dl --no-progress --quiet --ignore-errors --output '%(playlist_index)s - %(title)s.%(ext)s' \
-https://www.youtube.com/playlist?list=PLReDUkUQG7xqd_-mkcf8weHYLDoZLUVD1
-
-youtube-dl --no-progress --quiet --ignore-errors \
-https://www.youtube.com/watch?v=SJuzbIZW6n0 \
-https://www.youtube.com/watch?v=Vwi3bA1HEWA \
-https://www.youtube.com/watch?v=IabsFQG2uyU \
-https://www.youtube.com/watch?v=HcUOM5XkeyM \
-https://www.youtube.com/watch?v=tj9d6aBOzDo \
-https://www.youtube.com/watch?v=17DxIBjMygE \
-https://www.youtube.com/watch?v=P9XuGzvDOi4 \
-https://www.youtube.com/watch?v=0YRX4pEP6pY \
-https://www.youtube.com/watch?v=QhuMeVnn_qU \
-https://www.youtube.com/watch?v=v4FZ5pp_eHQ \
-https://www.youtube.com/watch?v=s3F6R92s6_o
+wget https://dl8.apkaward.com/APK-Mod+180211_0938/com.beamdog.baldursgateenhancededition/com.beamdog.baldursgateenhancededition.zip
