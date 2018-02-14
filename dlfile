@@ -15,8 +15,7 @@
 #[videos url] \
 #[videos url]
 
-wget http://37.187.24.141/5kapks/fa228fb5cf4c26a89080af5951585303/5a809ce7/asphalt_8_airborne.apk
-wget http://37.187.24.141/5kapks/740efd8e6c1def0593c1b2a9f6d2833d/5a809d12/asphalt_8_airborne_data.zip
-wget http://37.187.24.141/5kapks/a1a76cd5c55fa6dd4bd6a4c6b5a6da4c/5a809d0e/Asphalt-8-Airborne-v3.0.0l-Mod.apk
-youtube-dl https://www.youtube.com/watch?v=jucBuAzuZ0E
+youtube-dl https://www.youtube.com/watch?v=U201VNxi8YE
+youtube-dl https://www.youtube.com/watch?v=lSz1ZezTEDs
+youtube-dl https://www.youtube.com/watch?v=6JPdVhCsBrc
 
