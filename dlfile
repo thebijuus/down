@@ -15,4 +15,4 @@
 #[videos url] \
 #[videos url]
 
-wget http://descargas.jovenclub.cu/ecured/EcuMovil/EcuMovil_Imagenes_Enero_2018_Kiwix.zip
+wget "https://download.docker.com/win/edge/Docker%20for%20Windows%20Installer.exe"
