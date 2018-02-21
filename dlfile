@@ -15,4 +15,4 @@
 #[videos url] \
 #[videos url]
 
-youtube-dl https://www.youtube.com/watch?v=YNw4baDz6WA https://www.youtube.com/watch?v=dGtasFJnUxI https://www.youtube.com/watch?v=gWD6REVeKW4
+wget "http://s1.rexdl.com/android/app/Musixmatch-music-And-lyrics-v7.0.3-Arm-www.ReXdl.com.apk"
