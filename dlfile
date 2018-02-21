@@ -15,5 +15,4 @@
 #[videos url] \
 #[videos url]
 
-youtube-dl --no-progress --quiet --ignore-errors --output '%(playlist_index)s - %(title)s.%(ext)s' \
-https://www.youtube.com/user/HOLHOcollcetion/videos
+youtube-dl https://www.youtube.com/watch?v=YNw4baDz6WA https://www.youtube.com/watch?v=dGtasFJnUxI https://www.youtube.com/watch?v=gWD6REVeKW4
