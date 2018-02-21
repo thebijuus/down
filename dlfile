@@ -15,7 +15,5 @@
 #[videos url] \
 #[videos url]
 
-youtube-dl https://www.youtube.com/watch?v=y2smOt3kbKU
-youtube-dl https://www.youtube.com/watch?v=tyOZwSJFjoc
-youtube-dl https://www.youtube.com/watch?v=nQXCGnvXR0w
-youtube-dl https://www.youtube.com/watch?v=K03DMshJsEs
+youtube-dl --no-progress --quiet --ignore-errors --output '%(playlist_index)s - %(title)s.%(ext)s' \
+https://www.youtube.com/user/HOLHOcollcetion/videos
