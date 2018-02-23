@@ -15,9 +15,7 @@
 #[videos url] \
 #[videos url]
 
-wget "http://dl1.revdownload.com/dl1/2015/1501/anomaly_defenders_v1.01_www.revdl.com.apk"
-wget "http://dl1.revdownload.com/dl1/2015/1501/anomaly_defenders_v1.01_Mod_www.revdl.com.apk"
-wget "http://dl1.revdownload.com/s1/2015/1501/anomaly_defenders_v1.01_www.revdl.com.zip"
-wget "http://dl1.revdownload.com/dl1/1801/Army_Men_Strike_2.38.2__9179_Revdl.com.apk"
-wget "http://dl1.revdownload.com/dl1/1701/plants_vs_zombies_v2.1.00__3143_Revdl.com.apk"
-wget "http://dl1.revdownload.com/dl1/1701/plants_vs_zombies_v2.1.00_Mod__4517_Revdl.com.apk"
+youtube-dl https://www.youtube.com/watch?v=IByRsuUz9Qk
+youtube-dl https://www.youtube.com/watch?v=zf0Wm-HNpeA
+youtube-dl https://www.youtube.com/watch?v=-V521FDI9ec
+youtube-dl https://www.youtube.com/watch?v=SiiXSaLiKxw
