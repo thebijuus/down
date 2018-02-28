@@ -15,5 +15,7 @@
 #[videos url] \
 #[videos url]
 
-wget http://server02.dropapk.com:182/d/axcvz77s4tcdvbi472yzxvapz5zxcf3drjtqoekl3rv32xrlk3neyhzkti2unrpvhmu6pwiw/Photo_Resizer_Pro_2.8.apk
-wget http://server01.dropapk.com:182/d/apcuf77s4tcdvbi472yzdcaytpzx7gi7yzw2cor2wvhsi2bafxvhcj3mjx3ld7rrdvlxajir/Image_to_Text_OCR_Scanner_Premium_v1.46.apk
+wget https://bancaremota.bpa.cu/herramientas/VBPAClientAppSetup.rar
+wget https://bancaremota.bpa.cu/herramientas/Transfermovil.rar
+wget https://bancaremota.bpa.cu/herramientas/Manual_de_usuario_B-movil_sist_operativo_androide.rar
+wget https://bancaremota.bpa.cu/herramientas/Manual_de_usuario_B-movil_para_otros_sist_operativos.rar
