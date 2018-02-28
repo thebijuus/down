@@ -15,6 +15,4 @@
 #[videos url] \
 #[videos url]
 
-wget http://dl1.revdownload.com/dl1/1701/DEAD_WARFARE_Zombie_v1.2.240.51__9616_Revdl.com.apk
-wget http://dl1.revdownload.com/dl1/1801/DEAD_WARFARE_Zombie_1.2.240.51_Mod__2072_Revdl.com.apk
-wget http://dl1.revdownload.com/dl1/1701/DEAD_WARFARE_Zombie_v1.2.240.51__6679_Revdl.com.zip
+wget https://github.com/RocketChat/Rocket.Chat.Electron/releases/download/2.10.5/rocketchat_2.10.5_amd64.deb
