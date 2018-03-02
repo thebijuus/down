@@ -15,4 +15,4 @@
 #[videos url] \
 #[videos url]
 
-wget https://dl.dropboxusercontent.com/content_link/FD8NylwzhaRiAaqUSwoJTzk0ifNXFyV5WGmXcKNdUIQlK2OpAt7PgFKzifCnvMEV/file?_download_id=307501740021022045035401081157092529721934281761206113839461306503&_notify_domain=www.dropbox.com&dl=1
+wget "https://plugins.jetbrains.com/files/1347/43504/scala-intellij-bin-2018.1.3.zip?updateId=43504&pluginId=1347"
