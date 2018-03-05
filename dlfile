@@ -15,4 +15,7 @@
 #[videos url] \
 #[videos url]
 
-wget "https://plugins.jetbrains.com/files/1347/43504/scala-intellij-bin-2018.1.3.zip?updateId=43504&pluginId=1347"
+youtube-dl https://www.youtube.com/watch?v=k2qgadSvNyU
+youtube-dl https://www.youtube.com/watch?v=Mgfe5tIwOj0
+youtube-dl https://www.youtube.com/watch?v=r-AuLm7S3XE
+youtube-dl https://www.youtube.com/watch?v=mgI_pH8TOVY
