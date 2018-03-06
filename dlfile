@@ -15,4 +15,4 @@
 #[videos url] \
 #[videos url]
 
-youtube-dl https://www.youtube.com/watch?v=eYtKLbs1BRs
+wget https://archive.org/download/byw180303/Kingdom%20Rush%20Frontiers%20v3.0.23%20.zip
