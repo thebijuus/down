@@ -15,8 +15,5 @@
 #[videos url] \
 #[videos url]
 
-wget https://rufus.akeo.ie/downloads/rufus-2.18p.exe
-wget https://rufus.akeo.ie/downloads/rufus-2.18.exe
-wget http://get.daum.net/PotPlayer64/Version/Latest/PotPlayerSetup64.exe
-wget http://www.pcfreetime.com/public/FFSetup4.3.0.0.exe
-wget http://download.pcfreetime.com/PTX64Setup1.13.0.0.exe
+youtube-dl https://www.youtube.com/watch?v=_gm5piKnrS4
+
