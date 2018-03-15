@@ -15,4 +15,4 @@
 #[videos url] \
 #[videos url]
 
-youtube-dl http://65.39.138.49/local-universe.tar
+wget https://archive.org/download/zyx1803018/TuneIn%20Radio%20Pro%20-%20Live%20Radio%20v19.5.zip
