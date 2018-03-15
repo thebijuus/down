@@ -15,4 +15,7 @@
 #[videos url] \
 #[videos url]
 
-wget https://archive.org/download/zyx1803018/TuneIn%20Radio%20Pro%20-%20Live%20Radio%20v19.5.zip
+wget https://github.com/appium/appium-desktop/releases/download/v1.4.1/appium-desktop-1.4.1-x86_64.AppImage
+wget https://github.com/appium/appium-desktop/releases/download/v1.4.1/appium-desktop-Setup-1.4.1-ia32.exe
+wget http://download.katalon.com/5.3.1/Katalon_Studio_Linux_64-5.3.1.tar.gz
+wget http://download.katalon.com/5.3.1/Katalon_Studio_Windows_64-5.3.1.zip
