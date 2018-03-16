@@ -15,8 +15,4 @@
 #[videos url] \
 #[videos url]
 
-wget https://download.robomongo.org/1.2.1/linux/robo3t-1.2.1-linux-x86_64-3e50a65.tar.gz
-wget https://download.studio3t.com/studio-3t/windows/2018.2.4/studio-3t-x64.zip
-wget https://download.studio3t.com/studio-3t/linux/2018.2.4/studio-3t-linux-x64.tar.gz
-wget https://download.robomongo.org/1.2.1/windows/robo3t-1.2.1-windows-x86_64-3e50a65.exe
-wget https://download.robomongo.org/1.2.1/windows/robo3t-1.2.1-windows-x86_64-3e50a65.zip
+wget https://pgmodeler.io/download/demo/7/l64
