@@ -15,4 +15,7 @@
 #[videos url] \
 #[videos url]
 
-wget http://download1321.mediafire.com/j0o1e84n8tng/p4icbg7aa7ubfpd/FarmVille-Tropic-Escape-v1.25.1243-Mod-APK-www.paidfullpro.in.apk
+wget https://dl.google.com/dl/android/studio/ide-zips/3.0.1.0/android-studio-ide-171.4443003-linux.zip
+wget https://dl.google.com/dl/android/studio/ide-zips/3.0.1.0/android-studio-ide-171.4443003-windows.zip
+wget https://dl.google.com/android/repository/sdk-tools-windows-3859397.zip
+wget https://dl.google.com/android/repository/sdk-tools-linux-3859397.zip
