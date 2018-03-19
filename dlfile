@@ -15,7 +15,4 @@
 #[videos url] \
 #[videos url]
 
-wget https://dl.google.com/dl/android/studio/ide-zips/3.0.1.0/android-studio-ide-171.4443003-linux.zip
-wget https://dl.google.com/dl/android/studio/ide-zips/3.0.1.0/android-studio-ide-171.4443003-windows.zip
-wget https://dl.google.com/android/repository/sdk-tools-windows-3859397.zip
-wget https://dl.google.com/android/repository/sdk-tools-linux-3859397.zip
+wget http://download2268.mediafire.com/i6rdrl38r0ag/lkg407mtsg34s76/chcenter.zip
