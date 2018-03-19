@@ -15,5 +15,4 @@
 #[videos url] \
 #[videos url]
 
-youtube-dl https://www.youtube.com/embed/by1yz7Toick
-youtube-dl https://youtu.be/ArYLGNe-jCA
+wget -O nox_setup_v6.0.6.1_full_intl.exe https://www.bignox.com/en/download/fullPackage
