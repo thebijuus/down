@@ -15,4 +15,4 @@
 #[videos url] \
 #[videos url]
 
-wget https://speakerd.s3.amazonaws.com/presentations/8ea24aecbebe493b8510fd9ed08e9b45/Genry-Docs-as-code.pdf
+wget -O gitlab-runner-10.4.0 https://gitlab-runner-downloads.s3.amazonaws.com/v10.4.0/binaries/gitlab-runner-linux-amd64
