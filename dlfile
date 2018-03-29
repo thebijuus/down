@@ -15,7 +15,7 @@
 #[videos url] \
 #[videos url]
 
-wget https://www.visual-paradigm.com/downloads/vp14.2/Visual_Paradigm_Linux64_InstallFree.tar.gz
-wget https://www.visual-paradigm.com/downloads/vp14.2/Visual_Paradigm_Linux64.sh
-wget https://www.visual-paradigm.com/downloads/vp14.2/Visual_Paradigm_Win64_InstallFree.zip
-wget https://www.visual-paradigm.com/downloads/vp14.2/Visual_Paradigm_Win64.exe
+wget https://usa12.visual-paradigm.com/visual-paradigm/vp15.0/20180302/Visual_Paradigm_15_0_20180302_Linux64_InstallFree.tar.gz
+wget https://usa11.visual-paradigm.com/visual-paradigm/vp15.0/20180302/Visual_Paradigm_15_0_20180302_Linux64.sh
+wget https://usa7.visual-paradigm.com/visual-paradigm/vp15.0/20180302/Visual_Paradigm_15_0_20180302_Win64_InstallFree.zip
+wget https://usa6.visual-paradigm.com/visual-paradigm/vp15.0/20180302/Visual_Paradigm_15_0_20180302_Win64.exe
