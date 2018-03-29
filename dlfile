@@ -15,13 +15,4 @@
 #[videos url] \
 #[videos url]
 
-wget http://download.gigabyte.us/FileList/BIOS/mb_bios_ga-b150m-d3h_f24g.zip
-wget -O mb_driver_audio_realtek_100series_20160314.zip http://download.gigabyte.us/FileList/Driver/mb_driver_audio_realtek_100series.zip
-wget -O mb_driver_intel_me_corporate_rs3_20171130.zip http://download.gigabyte.us/FileList/Driver/mb_driver_intel_me_corporate_rs3.zip
-wget -O mb_driver_intel_me_100series_5m_20161226.zip http://download.gigabyte.us/FileList/Driver/mb_driver_intel_me_100series_5m.zip
-wget -O mb_driver_chipset_intel_100series_20161226.zip http://download.gigabyte.us/FileList/Driver/mb_driver_chipset_intel_100series.zip
-wget -O mb_driver_lan_intel_v22.10_20180112.zip http://download.gigabyte.us/FileList/Driver/mb_driver_lan_intel_v22.10.zip
-wget -O Microsoft_.NET_Framework_4.5_20140501.zip http://download.gigabyte.us/FileList/Driver/mb_driver_net_framework.zip
-wget -O mb_driver_intel_bootdisk_irst_64_v15_20161129.zip http://download.gigabyte.us/FileList/Driver/mb_driver_intel_bootdisk_irst_64_v15.zip
-wget -O mb_driver_intel_irst_v15_20161129.zip http://download.gigabyte.us/FileList/Driver/mb_driver_intel_irst_v15.zip
-wget -O mb_driver_vga_intel_64_100series_20170104.zip http://download.gigabyte.us/FileList/Driver/mb_driver_vga_intel_64_100series.zip
+wget http://appldnld.apple.com/ios11.3/091-40131-20180329-378E547E-2968-11E8-83E9-E8BDE6893228/iPhone_5.5_11.3_15E216_Restore.ipsw
