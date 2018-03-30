@@ -15,4 +15,24 @@
 #[videos url] \
 #[videos url]
 
-aria2c magnet:?xt=urn:btih:7b0d48858ecce4653066e1ed2232991ccafa34f6&dn=Scusa+Ma+Ti+Voglio+Sposare+2010+iTALiAN+DVDRip+XviD-TRL%5BWPS%5D&tr=http%3A%2F%2Ftracker.openbittorrent.com%2Fannounce
+youtube-dl --no-progress --quiet --ignore-errors --output '%(playlist_index)s - %(title)s.%(ext)s' \
+     https://www.youtube.com/channel/UCvkIkXvsd9KixNIAO0R1ymw/videos
+     
+wget -O piel-salvaje-capitulo-114.mp4 https://loadercdn.io/download?id=6YivIy2vS
+wget -O piel-salvaje-capitulo-115.mp4 https://loadercdn.io/download?id=6YivEyLBJ
+wget -O piel-salvaje-capitulo-117.mp4 https://loadercdn.io/download?id=6YivKEmCX
+wget -O piel-salvaje-capitulo-118.mp4 https://loadercdn.io/download?id=6Yiw4y4qX  
+wget -O piel-salvaje-capitulo-119.mp4 https://loadercdn.io/download?id=6YivXqrSv
+wget -O piel-salvaje-capitulo-120.mp4 https://loadercdn.io/download?id=6Yiw7lto2
+
+wget http://appldnld.apple.com/ios11.3/091-40386-20180329-37989C86-2968-11E8-BC8B-ECBDE6893228/iPhone_4.0_64bit_11.3_15E216_Restore.ipsw
+wget http://appldnld.apple.com/ios11.3/091-40131-20180329-378E547E-2968-11E8-83E9-E8BDE6893228/iPhone_5.5_11.3_15E216_Restore.ipsw
+wget http://appldnld.apple.com/ios11.3/091-40611-20180329-37984E20-2968-11E8-9B7F-FCBDE6893228/iPhone_4.7_11.3_15E216_Restore.ipsw
+wget http://appldnld.apple.com/ios11.3/091-40611-20180329-37984E20-2968-11E8-9B7F-FCBDE6893228/iPhone_4.7_11.3_15E216_Restore.ipsw
+wget http://appldnld.apple.com/ios11.3/091-40131-20180329-378E547E-2968-11E8-83E9-E8BDE6893228/iPhone_5.5_11.3_15E216_Restore.ipsw
+wget http://appldnld.apple.com/ios11.3/091-40386-20180329-37989C86-2968-11E8-BC8B-ECBDE6893228/iPhone_4.0_64bit_11.3_15E216_Restore.ipsw
+wget http://appldnld.apple.com/ios11.3/091-40403-20180329-378F9E24-2968-11E8-84CB-EDBDE6893228/iPhone_4.7_P3_11.0_11.3_15E216_Restore.ipsw
+wget http://appldnld.apple.com/ios11.3/091-40629-20180329-379A432E-2968-11E8-B0A6-FDBDE6893228/iPhone_5.5_P3_11.0_11.3_15E216_Restore.ipsw
+wget http://appldnld.apple.com/ios11.3/091-40403-20180329-378F9E24-2968-11E8-84CB-EDBDE6893228/iPhone_4.7_P3_11.0_11.3_15E216_Restore.ipsw
+wget http://appldnld.apple.com/ios11.3/091-40629-20180329-379A432E-2968-11E8-B0A6-FDBDE6893228/iPhone_5.5_P3_11.0_11.3_15E216_Restore.ipsw
+wget http://appldnld.apple.com/ios11.3/091-40480-20180329-3795A882-2968-11E8-85D0-F8BDE6893228/iPhone10,3,iPhone10,6_11.3_15E216_Restore.ipsw 
