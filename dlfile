@@ -15,5 +15,4 @@
 #[videos url] \
 #[videos url]
 
-youtube-dl --no-progress --quiet --ignore-errors --output '%(playlist_index)s - %(title)s.%(ext)s' \
-     https://www.youtube.com/channel/UCTLJ8HvI8qKkZAxYU9uhOEg/videos
+youtube-dl https://oload.site/embed/xpUdmQI4eLs/
