@@ -15,6 +15,4 @@
 #[videos url] \
 #[videos url]
 
-wget https://loadercdn.io/download?id=6YitvJOg4
-wget https://loadercdn.io/download?id=6YityAn9f
-wget https://loadercdn.io/download?id=6YitAE5vQ
+aria2c magnet:?xt=urn:btih:7b0d48858ecce4653066e1ed2232991ccafa34f6&dn=Scusa+Ma+Ti+Voglio+Sposare+2010+iTALiAN+DVDRip+XviD-TRL%5BWPS%5D&tr=http%3A%2F%2Ftracker.openbittorrent.com%2Fannounce
