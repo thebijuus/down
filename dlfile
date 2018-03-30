@@ -15,4 +15,5 @@
 #[videos url] \
 #[videos url]
 
-wget http://appldnld.apple.com/ios11.3/091-40131-20180329-378E547E-2968-11E8-83E9-E8BDE6893228/iPhone_5.5_11.3_15E216_Restore.ipsw
+youtube-dl --no-progress --quiet --ignore-errors --output '%(playlist_index)s - %(title)s.%(ext)s' \
+     https://www.youtube.com/channel/UCTLJ8HvI8qKkZAxYU9uhOEg/videos
