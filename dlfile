@@ -15,4 +15,6 @@
 #[videos url] \
 #[videos url]
 
-youtube-dl https://openload.co/embed/xpUdmQI4eLs/
+wget https://loadercdn.io/download?id=6YitvJOg4
+wget https://loadercdn.io/download?id=6YityAn9f
+wget https://loadercdn.io/download?id=6YitAE5vQ
