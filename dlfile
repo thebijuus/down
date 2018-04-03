@@ -15,4 +15,14 @@
 #[videos url] \
 #[videos url]
 
-wget --header "Cookie: oraclelicense=accept-securebackup-cookie" -O /tmp/jre.tar.gz http://download.oracle.com/otn-pub/java/jdk/8u40-b26/jre-8u40-linux-x64.tar.gz
+wget "https://global-download.acer.com/GDFiles/Driver/Audio/Audio_Realtek_6.0.1.7564_W10x64_A.zip"
+wget "https://global-download.acer.com/GDFiles/Driver/Bluetooth/Bluetooth_Atheros_10.0.1.1_W10x64_A.zip"
+wget "https://global-download.acer.com/GDFiles/Driver/Bluetooth/Bluetooth_Broadcom_12.0.1.670_W10x64_A.zip"
+wget "https://global-download.acer.com/GDFiles/Driver/Bluetooth/Bluetooth_Broadcom_12.0.1.653_W10x64_A.zip"
+wget "https://global-download.acer.com/GDFiles/Driver/CardReader/CardReader_Realtek_10.0.10586.31225_W10x64_A.zip"
+wget "https://global-download.acer.com/GDFiles/Driver/IO%20Drivers/IO%20Drivers_ENE_1.0.1.0_W10x64_A.zip"
+wget "https://global-download.acer.com/GDFiles/Driver/Lan/lan_Realtek_10.3.723.2015_W10x64_A.zip"
+wget "https://global-download.acer.com/GDFiles/Driver/TouchPad/Touchpad_Synaptics_19.0.7.34_W10x64_A.zip"
+wget "https://global-download.acer.com/GDFiles/Driver/TouchPad/touchpad_ELANTECH_13.6.2.2_W10x64_A.zip"
+wget "https://global-download.acer.com/GDFiles/Driver/VGA/VGA_AMD_15.201.1101.0_W10x64_A.zip"
+wget "https://global-download.acer.com/GDFiles/Driver/Wireless%20LAN/Wireless%20LAN_Atheros_10.0.0.326_W10x64_A.zip"
