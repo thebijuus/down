@@ -15,4 +15,4 @@
 #[videos url] \
 #[videos url]
 
-wget -O mongodb-r3.7.3.tar.gz https://github.com/mongodb/mongo/archive/r3.7.3.tar.gz
+wget https://www.mongodb.com/dr/fastdl.mongodb.org/linux/mongodb-linux-x86_64-amazon-3.6.3.tgz/download
