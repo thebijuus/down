@@ -15,8 +15,4 @@
 #[videos url] \
 #[videos url]
 
-youtube-dl --no-progress --quiet --ignore-errors --output '%(playlist_index)s - %(title)s.%(ext)s' \
-  https://www.youtube.com/playlist?list=PLeWI3XlFEVOWvEmuwUZCYhEP6NLIqT2Lp
-
-youtube-dl --no-progress --quiet --ignore-errors --output '%(playlist_index)s - %(title)s.%(ext)s' \
-  https://www.youtube.com/playlist?list=PLeWI3XlFEVOX15MezHvNFU8_mAWaTi89Z
+youtube-dl https://www.youtube.com/watch?v=holjbuSbv3k
