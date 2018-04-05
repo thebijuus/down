@@ -15,4 +15,8 @@
 #[videos url] \
 #[videos url]
 
-wget https://fastdl.mongodb.org/linux/mongodb-linux-x86_64-3.6.3.tgz
+youtube-dl --no-progress --quiet --ignore-errors --output '%(playlist_index)s - %(title)s.%(ext)s' \
+  https://www.youtube.com/playlist?list=PLeWI3XlFEVOWvEmuwUZCYhEP6NLIqT2Lp
+
+youtube-dl --no-progress --quiet --ignore-errors --output '%(playlist_index)s - %(title)s.%(ext)s' \
+  https://www.youtube.com/playlist?list=PLeWI3XlFEVOX15MezHvNFU8_mAWaTi89Z
