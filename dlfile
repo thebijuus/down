@@ -15,4 +15,9 @@
 #[videos url] \
 #[videos url]
 
-youtube-dl https://www.youtube.com/watch?v=holjbuSbv3k
+wget -O piel-salvaje-capitulo-114.mp4 https://loadercdn.io/download?id=6YuwVq1Ta
+wget -O piel-salvaje-capitulo-115.mp4 https://loadercdn.io/download?id=6YuwYB0TC
+wget -O piel-salvaje-capitulo-117.mp4 https://loadercdn.io/download?id=6Yux1Knjv
+wget -O piel-salvaje-capitulo-118.mp4 https://loadercdn.io/download?id=6Yux4AbAK
+wget -O piel-salvaje-capitulo-119.mp4 https://loadercdn.io/download?id=6Yux6BUYh
+wget -O piel-salvaje-capitulo-120.mp4 https://loadercdn.io/download?id=6Yux84g1q
