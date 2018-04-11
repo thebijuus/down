@@ -15,4 +15,4 @@
 #[videos url] \
 #[videos url]
 
-wget -O gitlab-runner-10.5.0 https://gitlab-runner-downloads.s3.amazonaws.com/v10.5.0/binaries/gitlab-runner-linux-amd64
+wget https://dw15.uptodown.com/dwn/0_vB1ZzREr6E42mYtvYSMfry0LXh3wjwW3d5TYmzPpPrsHNx4WrYjEGg0ztTiOjedUrWsusvpCEAnNhgDBNjn1E-QV76tJNh0d3XJDtf3PVf3-wIGX2SLHGtgh5cMn0o/YhtEFR0TKH84cpls-_z0YRX8JdQi4qgDQl4zUP0XlqBCfzLTG-uh8xPUcP06HJXvg5ZBv5YiSWojDnqxl17Wt7Z67pVJeumRO9sSCgk0FYVNgVp2qhQGc99Vg2VZ9fTb/fqWbywnSuc-RH-vzlSxdHujgVbERo1Q7ukgj37AsKVfqqUk58Mz7kGxAGTLW5lE1mNVa-3X0AaYl_HebfUbg6CH6FLyFWHFFhf6kfgxrfUMO76UzYsgJ1GcCoB73FIbE/YjVfhAftg6h03wJIH4ixVG2cCElkF3pYVybfn2gVaodXJoEWC-p0VOpDXuFPc9Tym32LiJPOaBfW7rLnabbsgQ==/google-keyboard-6-2-18-151907649-armeabi-v7a.apk
