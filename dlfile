@@ -15,19 +15,4 @@
 #[videos url] \
 #[videos url]
 
-youtube-dl https://www.youtube.com/watch?v=L9jHuJDRgo8
-youtube-dl https://www.youtube.com/watch?v=3QXJitvLRZE
-youtube-dl https://www.youtube.com/watch?v=5yDVOo_w4sQ
-youtube-dl https://www.youtube.com/watch?v=2SSzO6KyBh4
-youtube-dl https://www.youtube.com/watch?v=PpzeGvMPSeE
-youtube-dl https://www.youtube.com/watch?v=t2x36qbnh2A
-youtube-dl https://www.youtube.com/watch?v=iOtCjzvR2oQ
-youtube-dl https://www.youtube.com/watch?v=SYV1_XofaIc
-youtube-dl https://www.youtube.com/watch?v=z-PMB2oQ0qk
-youtube-dl https://www.youtube.com/watch?v=rqQNQH4Nx9w
-youtube-dl https://www.youtube.com/watch?v=NALQOb64bdE
-youtube-dl https://www.youtube.com/watch?v=AEeUob-IY6g
-youtube-dl https://www.youtube.com/watch?v=_9rH5K0U16I
-youtube-dl https://www.youtube.com/watch?v=H67xRvZt-fA
-youtube-dl https://www.youtube.com/watch?v=_zOxyTrvvpc
-youtube-dl https://www.youtube.com/watch?v=_4xv0DCNVwk
+wget -O gitlab-runner-10.5.0 https://gitlab-runner-downloads.s3.amazonaws.com/v10.5.0/binaries/gitlab-runner-linux-amd64
