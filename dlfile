@@ -15,5 +15,5 @@
 #[videos url] \
 #[videos url]
 
-wget http://dl.google.com/android/android-sdk_r24.4.1-linux.tgz
-wget http://dl.google.com/android/android-sdk_r24.4.1-macosx.zip
+youtube-dl --no-progress --quiet --ignore-errors --output '%(playlist_index)s - %(title)s.%(ext)s' \
+  https://www.youtube.com/user/ChamucaTATTOOS/videos
