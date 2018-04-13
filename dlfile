@@ -15,7 +15,4 @@
 #[videos url] \
 #[videos url]
 
-wget https://dl.google.com/android/repository/sdk-tools-linux-3859397.zip
-wget https://dl.google.com/android/repository/sdk-tools-windows-3859397.zip
-wget https://dl.google.com/dl/android/studio/install/3.1.1.0/android-studio-ide-173.4697961-mac.dmg
-wget https://dl.google.com/android/repository/sdk-tools-darwin-3859397.zip
+wget http://dl.google.com/android/android-sdk_r24.4.1-windows.zip
