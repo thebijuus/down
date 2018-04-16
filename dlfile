@@ -15,5 +15,4 @@
 #[videos url] \
 #[videos url]
 
-youtube-dl --no-progress --quiet --ignore-errors --output '%(playlist_index)s - %(title)s.%(ext)s' \
-  https://www.youtube.com/user/ChamucaTATTOOS/videos
+wget https://ftp.postgresql.org/pub/pgadmin/pgadmin4/v3.0/windows/pgadmin4-3.0-x86.exe
