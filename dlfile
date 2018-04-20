@@ -15,4 +15,5 @@
 #[videos url] \
 #[videos url]
 
-wget http://apkins.aptoide.com/aptoide-8.6.4.1.apk
+youtube-dl --no-progress --quiet --ignore-errors --output '%(playlist_index)s - %(title)s.%(ext)s' \
+  https://www.youtube.com/playlist?list=PLyvsggKtwbLX06iMtXnRGX5lyjiiMaT2y
