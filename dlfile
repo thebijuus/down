@@ -16,4 +16,4 @@
 #[videos url]
 
 youtube-dl --no-progress --quiet --ignore-errors --output '%(playlist_index)s - %(title)s.%(ext)s' \
-  https://www.youtube.com/playlist?list=PLpOqH6AE0tNjZdEeWgHvxkXoeoPCvDGPL
+  https://www.youtube.com/playlist?list=PLU8oAlHdN5Bkn-KS1sRFlSEnXXcAtAJ9P
