@@ -15,5 +15,11 @@
 #[videos url] \
 #[videos url]
 
+wget http://ftp.hp.com/pub/softlib/software13/COL40860/ds-99433-21/PARK-v1.8.4.zip
+
+wget http://ftp.hp.com/pub/softlib/software13/COL44939/fp-148012-1/Dot4x86.msi
+
+wget http://ftp.hp.com/pub/softlib/software13/COL44939/fp-148007-1/Dot4x64.msi
+
 youtube-dl --no-progress --quiet --ignore-errors --output '%(playlist_index)s - %(title)s.%(ext)s' \
   https://www.youtube.com/playlist?list=PLU8oAlHdN5Bkn-KS1sRFlSEnXXcAtAJ9P
