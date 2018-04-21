@@ -15,5 +15,7 @@
 #[videos url] \
 #[videos url]
 
-youtube-dl --no-progress --quiet --ignore-errors --output '%(playlist_index)s - %(title)s.%(ext)s' --playlist-start 70 \
-  https://www.youtube.com/playlist?list=PLU8oAlHdN5Bkn-KS1sRFlSEnXXcAtAJ9P
+yotube-dl https://www.youtube.com/watch?v=9wecCt9udBU
+yotube-dl https://www.youtube.com/watch?v=1eTDnSnDMgE
+yotube-dl https://www.youtube.com/watch?v=ucACLeMOYvE
+yotube-dl https://www.youtube.com/watch?v=rTSI4vLmTcM
