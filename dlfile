@@ -15,4 +15,4 @@
 #[videos url] \
 #[videos url]
 
-wget http://download.redis.io/releases/redis-4.0.9.tar.gz
+wget http://alamesa.s3-website-us-east-1.amazonaws.com/alamesa-20180417.db
