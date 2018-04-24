@@ -15,4 +15,7 @@
 #[videos url] \
 #[videos url]
 
-wget https://doc-04-74-docs.googleusercontent.com/docs/securesc/rfbe6s7ed6ma4118ogd1kl90dc3c6rm0/uot3sdonroqsunrgdhovmkii8735vvl1/1524585600000/15231503589294265705/05795162893543412935/1DTR-HSdY0pc7ae8vcNQwIPO8NB81SQrY?e=download&nonce=kifijiudrb5du&user=05795162893543412935&hash=fiarvt90merj8hhc638pp54vlu1l2cpj
+wget https://dl.bintray.com/zealdocs/windows/zeal-portable-0.5.0-windows-x64.zip
+wget https://dl.bintray.com/zealdocs/windows/zeal-portable-0.5.0-windows-x86.zip
+wget https://dl.bintray.com/zealdocs/windows/zeal-0.5.0-windows-x64.msi
+wget https://dl.bintray.com/zealdocs/windows/zeal-0.5.0-windows-x86.msi
