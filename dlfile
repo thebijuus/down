@@ -15,5 +15,5 @@
 #[videos url] \
 #[videos url]
 
-wget http://s5.rexdl.com/android/game/The-Room-Old-Sins-v1.0.1-www.ReXdl.com.apk
-wget http://s5.rexdl.com/android/game/The-Room-Old-Sins-v1.0.1-www.ReXdl.com.zip
+wget https://github.com/jgm/pandoc/releases/download/2.1.3/pandoc-2.1.3-1-amd64.deb
+wget https://github.com/jgm/pandoc/releases/download/2.1.3/pandoc-2.1.3-windows.msi
