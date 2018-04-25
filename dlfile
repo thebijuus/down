@@ -15,7 +15,5 @@
 #[videos url] \
 #[videos url]
 
-wget https://dl.bintray.com/zealdocs/windows/zeal-portable-0.5.0-windows-x64.zip
-wget https://dl.bintray.com/zealdocs/windows/zeal-portable-0.5.0-windows-x86.zip
-wget https://dl.bintray.com/zealdocs/windows/zeal-0.5.0-windows-x64.msi
-wget https://dl.bintray.com/zealdocs/windows/zeal-0.5.0-windows-x86.msi
+wget http://s5.rexdl.com/android/game/The-Room-Old-Sins-v1.0.1-www.ReXdl.com.apk
+wget http://s5.rexdl.com/android/game/The-Room-Old-Sins-v1.0.1-www.ReXdl.com.zip
