@@ -15,6 +15,5 @@
 #[videos url] \
 #[videos url]
 
-wget http://www.crossftp.com/crossftp-setup-1.98.8.exe
-wget http://www.crossftp.com/crossftp-all-bin-1.98.8.zip
-wget http://www.crossftp.com/crossftp_1.98.8.deb
+youtube-dl --no-progress --quiet --ignore-errors --output '%(playlist_index)s - %(title)s.%(ext)s' \
+  https://www.youtube.com/playlist?list=PL0805FB61D7503BC2
