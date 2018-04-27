@@ -15,5 +15,4 @@
 #[videos url] \
 #[videos url]
 
-youtube-dl --no-progress --quiet --ignore-errors --output '%(playlist_index)s - %(title)s.%(ext)s' \
-  https://www.youtube.com/playlist?list=PL0805FB61D7503BC2
+wget -O gitlab-runner-10.6.0 https://gitlab-runner-downloads.s3.amazonaws.com/v10.6.0/binaries/gitlab-runner-linux-amd64
