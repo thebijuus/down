@@ -15,4 +15,4 @@
 #[videos url] \
 #[videos url]
 
-youtube-dl https://www.youtube.com/watch?v=8LW3xwQd9f0
+wget https://dl.bintray.com/mwz/maven/com/github/mwz/sonar-scala_2.12/6.2.0/sonar-scala_2.12-6.2.0-assembly.jar
