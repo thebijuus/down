@@ -15,5 +15,4 @@
 #[videos url] \
 #[videos url]
 
-wget http://dl.apk20.com/download.php?app_id=30960
-wget http://apkins.aptoide.com/no-signal-alert-pro.apk?uid=2678615&store=kenpo&ver=8.6.4.1&entry_point=apkfy_new&utm_source=google&utm_medium=organic&utm_campaign=%28organic%29&utm_content=unknown&t_site_version=3&t_user_agent=Mozilla%2F5.0+%28X11%3B+Linux+x86_64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F65.0.3325.181+Safari%2F537.36&t_app_url=https%3A%2F%2Fno-signal-alert-pro.es.aptoide.com%2F&t_app_package=com.smartandroidapps.missedcallpro&t_site_session=dfae6d4bc64090f85a147b1e62
+youtube-dl https://www.youtube.com/watch?v=8LW3xwQd9f0
