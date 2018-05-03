@@ -15,4 +15,5 @@
 #[videos url] \
 #[videos url]
 
-wget https://dl.bintray.com/mwz/maven/com/github/mwz/sonar-scala_2.12/6.2.0/sonar-scala_2.12-6.2.0-assembly.jar
+youtube-dl https://youtu.be/XRREt1KB4Y8
+youtube-dl https://youtu.be/dzdjP3CPOCs
