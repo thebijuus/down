@@ -15,5 +15,4 @@
 #[videos url] \
 #[videos url]
 
-wget "https://github.com/MicrosoftArchive/redis/releases/download/win-3.2.100/Redis-x64-3.2.100.msi"
-wget "https://github.com/uglide/RedisDesktopManager/releases/download/0.9.3/redis-desktop-manager-0.9.3.817.exe"
+wget -O yarn-1.6.0.msi "https://yarnpkg.com/latest.msi"
