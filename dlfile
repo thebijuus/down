@@ -15,4 +15,4 @@
 #[videos url] \
 #[videos url]
 
-wget "http://cdn02.tiktoe.org/home/Visual%20Paradigm%2014.0%20Win.zip"
+wget "https://sonarsource.bintray.com/CommercialDistribution/sonar-sqale-plugin/sonar-sqale-plugin-2.7.jar"
