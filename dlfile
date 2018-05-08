@@ -15,4 +15,5 @@
 #[videos url] \
 #[videos url]
 
-wget -O yarn-1.6.0.msi "https://yarnpkg.com/latest.msi"
+wget "https://newfreetemplates.s3.amazonaws.com/118/20022018/Resume-for-Software-Engineer-Fresher_Pub.zip"
+wget "https://newfreetemplates.s3.amazonaws.com/122/20022018/Simple-Resume-Template_Pub.zip"
