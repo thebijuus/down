@@ -15,4 +15,8 @@
 #[videos url] \
 #[videos url]
 
-wget "http://download3.portableapps.com/portableapps/FoxitReaderPortable/FoxitReaderPortable_9.0.1.1049.paf.exe"
+youtube-dl https://www.youtube.com/watch?v=xUhnNt65nfk
+youtube-dl https://www.youtube.com/watch?v=YJZo8XtLcfU
+youtube-dl https://www.youtube.com/watch?v=Dw4SID07ZUg
+youtube-dl https://www.youtube.com/watch?v=WGCkn3d6mEA
+youtube-dl https://www.youtube.com/watch?v=Z0bfcJsloXo
