@@ -15,22 +15,4 @@
 #[videos url] \
 #[videos url]
 
-wget "http://www.cvtemplatemaster.com/cvs/Elegance-CV-template.docx"
-wget "http://www.cvtemplatemaster.com/cvs/Fresh-Two-Column-CV-template.docx"
-wget "http://www.cvtemplatemaster.com/cvs/Arrows-CV-template.docx"
-wget "http://www.cvtemplatemaster.com/cvs/Contact-Icons-Word-CV-template.docx"
-wget "http://www.cvtemplatemaster.com/cvs/Timeline-Word-CV-template.docx"
-wget "http://www.cvtemplatemaster.com/cvs/CV1-alternative.docx"
-wget "http://www.cvtemplatemaster.com/cvs/blue-layout-word-cv.docx"
-wget "http://www.cvtemplatemaster.com/cvs/cv-template-profile.docx"
-wget "http://www.cvtemplatemaster.com/cvs/icon-cv-template.docx"
-wget "http://www.cvtemplatemaster.com/cvs/CV10.docx"
-wget "http://www.cvtemplatemaster.com/cvs/CV8.docx"
-wget "http://www.cvtemplatemaster.com/cvs/CV7.docx"
-wget "http://www.cvtemplatemaster.com/cvs/CV6.docx"
-wget "http://www.cvtemplatemaster.com/cvs/CV5.docx"
-wget "http://www.cvtemplatemaster.com/cvs/CV4.docx"
-wget "http://www.cvtemplatemaster.com/cvs/CV3.docx"
-wget "http://www.cvtemplatemaster.com/cvs/CV2.docx"
-wget "http://www.cvtemplatemaster.com/cvs/CV1.docx"
-wget "http://www.cvtemplatemaster.com/cvs/smart-boxes-cv.docx"
+wget "http://download3.portableapps.com/portableapps/FoxitReaderPortable/FoxitReaderPortable_9.0.1.1049.paf.exe"
