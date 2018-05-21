@@ -15,5 +15,6 @@
 #[videos url] \
 #[videos url]
 
-yd https://www.youtube.com/watch?v=3YTGf6eEvrU
+wget https://download.hardcoded.net/dupeguru_win64_4.0.3.exe
+wget https://download.hardcoded.net/dupeguru_win32_4.0.3.exe
 
