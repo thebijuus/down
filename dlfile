@@ -15,6 +15,5 @@
 #[videos url] \
 #[videos url]
 
-wget https://download.hardcoded.net/dupeguru_win64_4.0.3.exe
-wget https://download.hardcoded.net/dupeguru_win32_4.0.3.exe
+wget https://downloads.vivaldi.com/stable/vivaldi-stable_1.15.1147.42-1_amd64.deb
 
