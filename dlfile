@@ -15,5 +15,5 @@
 #[videos url] \
 #[videos url]
 
-youtube-dl https://www.youtube.com/watch?v=OISj4vKAQnw
+wget https://dl2.cdn.filezilla-project.org/server/FileZilla_Server-0_9_60_2.exe
 
