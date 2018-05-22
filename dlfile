@@ -15,5 +15,5 @@
 #[videos url] \
 #[videos url]
 
-wget https://downloads.vivaldi.com/stable/vivaldi-stable_1.15.1147.42-1_amd64.deb
+youtube-dl https://www.youtube.com/watch?v=OISj4vKAQnw
 
