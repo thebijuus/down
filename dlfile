@@ -15,8 +15,4 @@
 #[videos url] \
 #[videos url]
 
-wget "https://download.virtualbox.org/virtualbox/5.2.12/Oracle_VM_VirtualBox_Extension_Pack-5.2.12-122591.vbox-extpack"
-wget "https://download.virtualbox.org/virtualbox/5.2.12/VirtualBox-5.2.12-122591-Linux_amd64.run"
-wget "https://download.virtualbox.org/virtualbox/5.2.12/virtualbox-5.2_5.2.12-122591~Ubuntu~bionic_amd64.deb"
-wget "https://download.virtualbox.org/virtualbox/5.2.12/VBoxGuestAdditions_5.2.12.iso"
-wget "https://download.virtualbox.org/virtualbox/5.2.12/UserManual.pdf"
+wget https://nodejs.org/dist/v8.11.2/node-v8.11.2-linux-x64.tar.xz
