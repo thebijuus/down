@@ -15,5 +15,5 @@
 #[videos url] \
 #[videos url]
 
-wget https://github.com/egoist/devdocs-app/releases/download/v0.6.9/DevDocs-0.6.9.exe
-wget https://github.com/egoist/devdocs-app/releases/download/v0.6.9/DevDocs-Setup-0.6.9.exe
+youtube-dl --no-progress --quiet --ignore-errors --output '%(playlist_index)s - %(title)s.%(ext)s' \
+  https://www.youtube.com/user/ArnaldoCCastroSA/videos
