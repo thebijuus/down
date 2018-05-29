@@ -15,5 +15,5 @@
 #[videos url] \
 #[videos url]
 
-youtube-dl --no-progress --quiet --ignore-errors --output '%(playlist_index)s - %(title)s.%(ext)s' \
-  https://www.youtube.com/user/ArnaldoCCastroSA/videos
+wget https://github.com/twbs/bootstrap/releases/download/v4.1.1/bootstrap-4.1.1-dist.zip
+wget https://github.com/twbs/bootstrap/archive/v4.1.1.zip
