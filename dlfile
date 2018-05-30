@@ -15,5 +15,4 @@
 #[videos url] \
 #[videos url]
 
-wget https://github.com/twbs/bootstrap/releases/download/v4.1.1/bootstrap-4.1.1-dist.zip
-wget https://github.com/twbs/bootstrap/archive/v4.1.1.zip
+wget https://transfonter.org/files/dedf220ccd47b6472c869b4eb18a923e/transfonter.org-20180530-121200.zip
