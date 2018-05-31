@@ -15,4 +15,4 @@
 #[videos url] \
 #[videos url]
 
-wget https://transfonter.org/files/dedf220ccd47b6472c869b4eb18a923e/transfonter.org-20180530-121200.zip
+wget http://ftp.de.debian.org/debian/pool/contrib/m/msttcorefonts/ttf-mscorefonts-installer_3.6_all.deb
