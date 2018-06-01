@@ -15,5 +15,4 @@
 #[videos url] \
 #[videos url]
 
-wget https://nodejs.org/dist/v8.11.2/node-v8.11.2-x64.msi
-wget https://github.com/coreybutler/nvm-windows/releases/download/1.1.6/nvm-setup.zip
+wget "https://dl.google.com/tag/s/appguid%3D%7B8A69D345-D564-463C-AFF1-A69D9E530F96%7D%26iid%3D%7B95CBFC40-A974-0CC5-3471-DC5F1ADD693F%7D%26lang%3Den%26browser%3D3%26usagestats%3D1%26appname%3DGoogle%2520Chrome%26needsadmin%3Dprefers%26ap%3Dx64-stable-statsdef_1/chrome/install/ChromeStandaloneSetup64.exe"
