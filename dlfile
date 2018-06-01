@@ -15,4 +15,4 @@
 #[videos url] \
 #[videos url]
 
-wget "https://download.sublimetext.com/Sublime%20Text%20Build%203176%20x64%20Setup.exe"
+wget "https://dl.google.com/go/go1.10.2.linux-amd64.tar.gz"
