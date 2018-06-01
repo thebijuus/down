@@ -15,7 +15,4 @@
 #[videos url] \
 #[videos url]
 
-wget "https://github.com/Maximus5/ConEmu/releases/download/v18.05.28/ConEmuSetup.180528.exe"
-wget "https://github.com/Maximus5/ConEmu/releases/download/v18.05.28/ConEmu_180528_English.paf.exe"
-wget "https://www.python.org/ftp/python/2.7.15/python-2.7.15.amd64.msi"
-wget "https://www.python.org/ftp/python/3.6.5/python-3.6.5-amd64.exe"
+wget "https://download.microsoft.com/download/E/E/D/EEDF18A8-4AED-4CE0-BEBE-70A83094FC5A/BuildTools_Full.exe"
