@@ -15,4 +15,4 @@
 #[videos url] \
 #[videos url]
 
-wget "https://github.com/minbrowser/min/releases/download/v1.7.1/min_1.7.1_amd64.deb"
+wget -O gitlab-runner-linux-amd64-10.7.0 https://gitlab-runner-downloads.s3.amazonaws.com/v10.7.0/binaries/gitlab-runner-linux-amd64
