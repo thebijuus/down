@@ -15,4 +15,4 @@
 #[videos url] \
 #[videos url]
 
-wget "http://fg.ds.b1.download.windowsupdate.com/d/Upgr/2018/04/17134.1.180410-1804.rs4_release_clientconsumer_ret_x64fre_es-es_5535434c1a1b27e8351c9d89b343002d4d82cb55.esd"
+wget "https://downloads.dcos.io/dcos/stable/dcos_generate_config.sh"
