@@ -15,6 +15,13 @@
 #[videos url] \
 #[videos url]
 
-wget "https://www.fosshub.com/Calibre.html/calibre-3.25.0.msi"
-wget "https://cfhcable.dl.sourceforge.net/project/docfetcher/docfetcher/1.1.19/docfetcher_1.1.19_win32_setup.exe"
-
+wget -O firefox.setup.v60.0.2.en-US.win64.exe "https://download.mozilla.org/?product=firefox-latest-ssl&os=win64&lang=en-US"
+wget -O firefox.setup.v60.0.2.en-US.osx.dmg "https://download.mozilla.org/?product=firefox-latest-ssl&os=osx&lang=en-US"
+wget -O firefox.setup.v60.0.2.en-US.linux64.tar.bz2 "https://download.mozilla.org/?product=firefox-latest-ssl&os=linux64&lang=en-US"
+wget -O firefox.setup.v60.0.2.en-US.win.exe "https://download.mozilla.org/?product=firefox-latest-ssl&os=win&lang=en-US"
+wget -O firefox.setup.v60.0.2.en-US.linux.tar.bz2 "https://download.mozilla.org/?product=firefox-latest-ssl&os=linux&lang=en-US"
+wget -O firefox.setup.v60.0.2.es-ES.win64.exe "https://download.mozilla.org/?product=firefox-latest-ssl&os=win64&lang=es-ES"
+wget -O firefox.setup.v60.0.2.es-ES.osx.dmg "https://download.mozilla.org/?product=firefox-latest-ssl&os=osx&lang=es-ES"
+wget -O firefox.setup.v60.0.2.es-ES.linux64.tar.bz2 "https://download.mozilla.org/?product=firefox-latest-ssl&os=linux64&lang=es-ES"
+wget -O firefox.setup.v60.0.2.es-ES.win.exe "https://download.mozilla.org/?product=firefox-latest-ssl&os=win&lang=es-ES"
+wget -O firefox.setup.v60.0.2.es-ES.linux.tar.bz2 "https://download.mozilla.org/?product=firefox-latest-ssl&os=linux&lang=es-ES"
