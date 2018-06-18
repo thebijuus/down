@@ -15,10 +15,7 @@
 #[videos url] \
 #[videos url]
 
-wget http://www.subdivx.com/sub7/337425.rar
-wget http://www.subdivx.com/sub7/337426.rar
-wget http://www.subdivx.com/sub7/287119.rar
-wget http://www.subdivx.com/sub2/126353.rar
-wget http://www.subdivx.com/sub5/187897.rar
-wget http://www.subdivx.com/sub3/143954.rar
-wget http://www.subdivx.com/sub2/83778.zip
+youtube-dl https://www.youtube.com/watch?v=QNw4sP7TThs
+youtube-dl https://www.youtube.com/watch?v=2KXguipHK74
+youtube-dl https://www.youtube.com/watch?v=vCUrpsHn2B8
+youtube-dl https://www.youtube.com/watch?v=WPthTwW2UA4
