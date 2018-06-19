@@ -15,7 +15,4 @@
 #[videos url] \
 #[videos url]
 
-youtube-dl https://www.youtube.com/watch?v=QNw4sP7TThs
-youtube-dl https://www.youtube.com/watch?v=2KXguipHK74
-youtube-dl https://www.youtube.com/watch?v=vCUrpsHn2B8
-youtube-dl https://www.youtube.com/watch?v=WPthTwW2UA4
+wget "https://download.docker.com/win/stable/Docker%20for%20Windows%20Installer.exe"
