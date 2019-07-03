@@ -16,5 +16,7 @@
 #[videos url]
 
 #youtube-dl https://www.youtube.com/watch?v=VCo3zZ0P4vU
-youtube-dl --no-progress --quiet --ignore-errors https://www.youtube.com/watch?v=s3GfXTnzG_Y https://www.youtube.com/watch?v=biEpb6uclzY
+#youtube-dl --no-progress --quiet --ignore-errors https://www.youtube.com/watch?v=s3GfXTnzG_Y https://www.youtube.com/watch?v=biEpb6uclzY
+
+wget -c https://downloads.dcos.io/dcos/stable/1.13.2/dcos_generate_config.sh
 ls -alh
